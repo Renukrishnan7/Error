@@ -1,0 +1,123 @@
+.col1{
+	width: 70%;
+	height: 70%;
+	padding: 20px;
+	border: 2px solid lightpink;
+	border-radius: 25px;
+	background-color: white;
+	position: absolute;
+	top:10%;
+	left:15%;
+
+}
+img
+{
+	top: 20%;
+	position: absolute;
+	width: 30%;
+	height: 50%;
+	left:17%;
+}
+
+.col2
+{
+	color: lightgray;
+	top: 6%;
+	left: 50%;
+	position: absolute;
+	font-size: 75px;
+
+}
+.col3
+{
+	font-size: 17px;
+	color:gray;
+	top:26%;
+	left: 50%;
+	position: absolute;
+}
+.col4
+{
+	font-size: 20px;
+	color:lightgray;
+	top:31%;
+	left: 50%;
+	position: absolute;
+	width: 36%;
+}
+.col5
+{
+	font-size: 25px;
+	color: gray;
+	position: absolute;
+	top: 47%;
+	left: 50%;
+}
+
+.col6
+{
+	font-size: 19px;
+	color:lightgray;
+	left:53%;
+	position: absolute;
+	top:54%;
+}
+.col7
+{
+	font-size: 19px;
+	color:lightgray;
+	left:53%;
+	position: absolute;
+	top:59%;
+	width: 34%;
+}
+.col8
+{
+	font-size: 19px;
+	color:lightgray;
+	left:53%;
+	position: absolute;
+	top:67%;
+}
+
+.col9
+{
+	position: absolute;
+	top: 77%;
+	left: 50%;
+
+}
+.icon1
+{
+	color: lightpink;
+	position: absolute;
+	left:51%;
+	top:56%;
+}
+.icon2
+{
+	color: lightpink;
+	position: absolute;
+	left:51%;
+	top:62%;
+}
+.icon3
+{
+	color: lightpink;
+	position: absolute;
+	left:51%;
+	top:69%;
+}
+
+
+.col10
+{
+	background-color:red;
+	position: absolute;
+	transform:rotate(310deg);
+	top:16%;
+	left:13%;
+	padding: 10px 10px;
+	text-align: center;
+	width: 11%;
+}
